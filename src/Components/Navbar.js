@@ -30,7 +30,7 @@ function Navbar(props) {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/">
+                <a className="nav-link" href="https://saurav-sinha-3141.github.io/text-utils/">
                   {props.about}
                 </a>
               </li>
