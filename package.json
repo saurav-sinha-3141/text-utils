@@ -1,6 +1,6 @@
 {
   "homepage": "https://text_utils.sauravsinha.tech",
-  "name": "text-utils",
+  "name": "text_utils",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
